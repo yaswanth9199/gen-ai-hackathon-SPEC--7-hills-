@@ -1,0 +1,8 @@
+{
+  "name": "KrishiSahay AI",
+  "description": "An intelligent agricultural assistant for Indian farmers, providing multilingual support for crops, weather, and market prices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
